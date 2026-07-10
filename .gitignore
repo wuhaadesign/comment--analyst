@@ -1,0 +1,4 @@
+.env
+chrome-profile/
+data/
+*.log
